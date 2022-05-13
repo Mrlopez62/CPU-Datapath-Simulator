@@ -2,8 +2,8 @@ let questions = [
     {
         //image 1
     numb: 1,
-    question: "Which one of these shapes is most used to represent an ALU?",
-    answer: "2",
+    question: "Which one of these shapes is most used to represent an ALU? (open Q1 img in new tab)",
+    answer: "1",
     options: [
       "1",
       "2",
@@ -69,7 +69,7 @@ let questions = [
   {
       //image 2
     numb: 7,
-    question: "What is the value of RegDst when using control for ALU instructions?",
+    question: "What is the value of RegDst when using control for ALU instructions? (open Q7 img in new tab)",
     answer: "1",
     options: [
         "0",
@@ -81,7 +81,7 @@ let questions = [
   {
       //image 3
     numb: 8,
-    question: "What is the value of MemRead when using control for Store instructions?",
+    question: "What is the value of MemRead when using control for Store instructions? (open Q8 img in new tab)",
     answer: "0",
     options: [
         "16",
@@ -93,7 +93,7 @@ let questions = [
   {
       //image 4
     numb: 9,
-    question: "What is the value of MemWrite when using control for Branch instructions?",
+    question: "What is the value of MemWrite when using control for Branch instructions? (open Q9 img in new tab)",
     answer: "1",
     options: [
         "16",
